@@ -1,0 +1,27 @@
+{
+  "presets": [ // presets 就是 plugins 的组合
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          // 大于相关浏览器版本无需用到 preset-env
+          "edge": 17,
+          "firefox": 60,
+          "chrome": 67
+        },
+        "useBuiltIns": "usage" //useBuiltIns就是是否开启自动支持 polyfill，它能自动给每个文件添加其需要的poly-fill。
+      }
+    ],
+    "@babel/preset-react"
+  ],
+  "plugins": [
+    "@babel/plugin-proposal-class-properties", 
+    [
+      "import", {
+        "libraryName": "antd",
+        "libraryDirectory": "es",
+        "style": true
+      }
+    ]
+  ]
+}
