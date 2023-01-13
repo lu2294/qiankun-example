@@ -24,7 +24,6 @@ module.exports = merge(common, {
   output: {
     path: path.resolve(__dirname, '../build'),
     filename: 'static/js/[name]-bundle-[hash:6].js',
-    publicPath:'/child2web/'
   },
   module: {
     rules: [{

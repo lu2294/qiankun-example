@@ -14,7 +14,7 @@ const Index = () => {
         
             registerMicroApps([
                {name: 'child2',
-            entry: process.env.NODE_ENV === 'production' ? '/child2web/' : '//127.0.0.1:4002/',
+            entry: process.env.NODE_ENV === 'production' ? '/childweb2/' : '//127.0.0.1:4002/',
             container: '#subapp-viewport1',
             loader: (loading) => {
                 setLoding(loading)
@@ -43,21 +43,6 @@ const Index = () => {
             start(
                 {
                     prefetch: false,
-                    // urlRerouteOnly: true
-
-                    // fetch(url,...args){
-                    //     const token = localStorage.getItem('token');
-                    //     const params = {
-                    //         ...args,
-                    //         headers:{
-                    //             'x-rbac-token':`V1#xdr_web#${token}`
-                    //           }
-                    //     }
-                    //     return window.fetch(url, params);
-                    // }
-                    // sandbox: {
-                    //     experimentalStyleIsolation: true
-                    // }
                 }
 
             );
