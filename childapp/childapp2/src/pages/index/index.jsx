@@ -13,14 +13,15 @@ const Index = () => {
 	}
 	return (
 		<div className="main_content">
-      <div className="main_1">
+      {window.__POWERED_BY_QIANKUN__  ? <div className="main_1">
 			<div className="mt10">
 				<Button type="primary" onClick={()=>{onClick('/main')}}>打开主应用</Button>
 			</div>
 			<div className="mt10">
 				<Button type="primary" onClick={()=>{onClick('/child1/index')}}>打开子应用1</Button>
 			</div>
-      </div>
+      </div> : null}
+      
       <div className="main_1 main_2">
           <span>我是子应用2 - 页面1</span>
       </div>
