@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes,Route, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Routes,Route, Navigate } from 'react-router-dom';
 import { Spin } from 'antd';
 
 import Nprogress from './Nprogress';
@@ -18,7 +18,7 @@ const Indexs = () => {
       <Route path={"/main"} element={SuspenseComponent(Index)} />
       <Route path={"/child1/*"} element={SuspenseComponent(Child1)} />
       <Route path={"/child2/*"} element={SuspenseComponent(Child2)} />
-      <Route path={"/"} ex element={<Navigate to="/main" />}/>
+      <Route path={"/*"} ex element={<Navigate to="/main" />}/>
     </Routes>
     
 };

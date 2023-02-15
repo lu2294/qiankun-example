@@ -9,6 +9,7 @@ const { Content } = Layout;
 
 const Index = () => {
     const [isLoding, setLoding] = useState(false);
+    const getActiveRule = (hash) => (location) => {console.log(location.hash.startsWith(hash),99999999999);return location.hash.startsWith(hash)};
     useEffect(() => {
         // 避免不必要的预请求
         
@@ -19,11 +20,10 @@ const Index = () => {
             loader: (loading) => {
                 setLoding(loading)
             },
-            activeRule: '/child2'
+            activeRule: getActiveRule('#/child2')
         }
             ], {
                 beforeLoad: app => {
-                    console.log('before load app.name====>>>>>', app.name)
                 },
                 beforeMount: [
                     app => {
@@ -54,6 +54,7 @@ const Index = () => {
             <Layout className="layout main-app">
                 <Content className={classNames('main-content')}>
                     <div className="subapp-viewport" id="subapp-viewport1" ></div>
+                    <div className="subapp-viewport" id="subapp-viewport2" ></div>
                 </Content>
                 <Spin className="child-component-loading" spinning={isLoding} />
             </Layout>

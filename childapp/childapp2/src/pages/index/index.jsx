@@ -7,18 +7,23 @@ import './index.less'
 
 const Index = () => {
   const navigate = useNavigate()
-	const onClick = (e) => {
-    window.history.pushState(null,null,e)
+	const onClick = (e,isHash = false) => {
+    if(isHash){
+      window.location.hash = e
+    }else{
+      window.history.pushState(null,null,e)
+    }
+    
 		// navigate(e)
 	}
 	return (
 		<div className="main_content">
       {window.__POWERED_BY_QIANKUN__  ? <div className="main_1">
 			<div className="mt10">
-				<Button type="primary" onClick={()=>{onClick('/main')}}>打开主应用</Button>
+				<Button type="primary" onClick={()=>{onClick('/main',true)}}>打开主应用</Button>
 			</div>
 			<div className="mt10">
-				<Button type="primary" onClick={()=>{onClick('/child1/index')}}>打开子应用1</Button>
+				<Button type="primary" onClick={()=>{onClick('/child1/index',true)}}>打开子应用1</Button>
 			</div>
       </div> : null}
       

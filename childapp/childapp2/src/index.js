@@ -2,7 +2,7 @@ import './public-path';
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter  } from "react-router-dom";
 // import 'default-passive-events';
 let root = null;
 
@@ -11,9 +11,9 @@ function render(props){
   const containers = document.getElementById("child2-root");
   root = ReactDOM.createRoot(container ? container.querySelector("#child2-root") : containers);
   root.render(
-    <BrowserRouter basename={window.__POWERED_BY_QIANKUN__ ? '/child2' : '/'}>
+    <HashRouter  basename={window.__POWERED_BY_QIANKUN__ ? '/child2' : '/'}>
       <App />
-    </BrowserRouter>
+    </HashRouter >
   
   )
 }

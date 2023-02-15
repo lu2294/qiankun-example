@@ -50,7 +50,7 @@ const Indexs = () => {
     <LeftComponent>
     <Routes>
       {renderRouter(mainRouteConfig)}
-      <Route path="/" element={<Navigate to="/index" />} />
+      <Route path="/*" element={<Navigate to="/index" />} />
     </Routes>
     </LeftComponent>
     

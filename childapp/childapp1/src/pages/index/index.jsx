@@ -7,22 +7,27 @@ import './index.less'
 
 const Index = () => {
   const navigate = useNavigate()
-	const onClick = (e) => {
+	const onClick = (e,isHash = false) => {
+    if(isHash){
+      window.location.hash = e;
+    }else{
+      window.history.pushState(null,null,e)
+    }
 		console.log('click ', e)
-    window.history.pushState(null,null,e)
+    // window.history.pushState(null,null,e)
 		// navigate(e)
 	}
 	return (
 		<div className="main_content">
       <div className="main_1">
 			<div className="mt10">
-				<Button type="primary" onClick={()=>{onClick('/main')}}>打开主应用</Button>
+				<Button type="primary" onClick={()=>{onClick('/main',true)}}>打开主应用</Button>
 			</div>
 			<div className="mt10">
-				<Button type="primary" onClick={()=>{onClick('/child2/index')}}>打开子应用2 - 页面1</Button>
+				<Button type="primary" onClick={()=>{onClick('/child2/index',true)}}>打开子应用2 - 页面1</Button>
 			</div>
       <div className="mt10">
-				<Button type="primary" onClick={()=>{onClick('/child2/index2')}}>打开子应用2 - 页面3</Button>
+				<Button type="primary" onClick={()=>{onClick('/child2/index2',true)}}>打开子应用2 - 页面3</Button>
 			</div>
       </div>
       <div className="main_1 main_2">
