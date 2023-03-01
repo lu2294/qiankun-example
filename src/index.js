@@ -10,9 +10,9 @@ function render(props){
   const containers = document.getElementById("main-root");
   root = ReactDOM.createRoot(container ? container.querySelector("#main-root") : containers);
   root.render(
-    <HashRouter>
+    <BrowserRouter>
       <App />
-    </HashRouter>
+    </BrowserRouter>
   
   )
 }

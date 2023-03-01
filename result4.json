@@ -1,0 +1,1815 @@
+[
+  {
+    "employeeName": "延亚涛",
+    "superiorNumber": "74207",
+    "superiorName": "李晓鸣",
+    "assessPersonId": "298526",
+    "personId": "300004775",
+    "assessResult": "A",
+    "assessRecode": "4.40000",
+    "assessDes": "积极推进统推工作全周期工作，并出色完成。"
+  },
+  {
+    "employeeName": "路金凤",
+    "superiorNumber": "303915",
+    "superiorName": "梁海斌",
+    "assessPersonId": "298532",
+    "personId": "300004797",
+    "assessResult": "A",
+    "assessRecode": "4.20000",
+    "assessDes": "工作态度积极端正，有强烈的责任心，对待交办工作积极主动、有始有终。工作细致严谨，有较强的执行力。积极乐观，与团队人员相处融洽，营造部门凝聚力。"
+  },
+  {
+    "employeeName": "桂斌",
+    "superiorNumber": "306212",
+    "superiorName": "熊睿",
+    "assessPersonId": "298527",
+    "personId": "300004780",
+    "assessResult": "A",
+    "assessRecode": "4.60000",
+    "assessDes": "不仅在售前方面做好自己的本职工作且分担售后工作的拆解，协助做好售后管理工作"
+  },
+  {
+    "employeeName": "宫小飞",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298533",
+    "personId": "300004804"
+  },
+  {
+    "employeeName": "王祥",
+    "superiorNumber": "65232",
+    "superiorName": "金立东",
+    "assessPersonId": "298528",
+    "personId": "300004782",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "工作一丝不苟，积极主动的承担工作任务；待人友善，能快速融入新的环境，勤奋好学。期望后续在研发设计和产品支撑上更进一步，给团队做出更大的贡献。"
+  },
+  {
+    "employeeName": "朱成保",
+    "superiorNumber": "395022",
+    "superiorName": "钟宏运",
+    "assessPersonId": "298534",
+    "personId": "300004809"
+  },
+  {
+    "employeeName": "张延龙",
+    "superiorNumber": "70320",
+    "superiorName": "许瑞灿",
+    "assessPersonId": "298529",
+    "personId": "300004784",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工做事认真，任劳任怨，不计较个人得失，服从上级安排，工作态度端正，心胸开阔，关心和热爱集体，性格活波开朗，希继续保持。"
+  },
+  {
+    "employeeName": "袁骏",
+    "superiorNumber": "65109",
+    "superiorName": "陶莉莉",
+    "assessPersonId": "298530",
+    "personId": "300004786",
+    "assessResult": "B",
+    "assessRecode": "3.68750",
+    "assessDes": "主动探索能力、学习能力较好，乐于、善于探索新的技术和解决难题。对于本年度工作中承接的多项技术探索工作均能积极应对，解决团队中实际的技术问题，并进行落地和执行。\r\n乐于总结、分享，根据自身工作经验和技能，进行多次自动化，CI，框架模式方面分享，对于团队技能基线起到提升作用。\r\n本年度工作中作为堡垒CI自动化主要实现人员，持续优化关键字，实现堡垒机关键场景覆盖。后续可在CI持续P0覆盖、快速反馈切实提升产品迭代效率方面持续优化。\r\n团队内部探索桌面端自动化技术，解决堡垒关键功能覆盖技术难点，并同步内部分享sdp产品，实现技术共享。\r\n持续完成数据度量处理工作，同时落地精准测试。实现具备通用性，能够同步到部门支撑的其他产品。\r\n"
+  },
+  {
+    "employeeName": "章栗",
+    "superiorNumber": "66880",
+    "superiorName": "唐秀才",
+    "assessPersonId": "298535",
+    "personId": "300004811",
+    "assessResult": "B",
+    "assessRecode": "3.52500",
+    "assessDes": "在下半年的网关工作中，主要参与了应用网关和Linux图形网关的研发工作，初期在短时间内熟悉应用网关和图形网关的整体技术架构，以及Nginx开源业务代码等，对Docker使用技术有一定的理解，并在部门做了两次知识小课堂业务培训（Docker技术分享、应用网关业务介绍），为部门同事学习Docker和了解应用网关业务提供一定帮助。希望后续能够在此基础上更上一层楼，并在研发的过程中多思考，多总结，努力提升自己。"
+  },
+  {
+    "employeeName": "杨梦琦",
+    "superiorNumber": "63878",
+    "superiorName": "邵凡",
+    "assessPersonId": "298531",
+    "personId": "300004788",
+    "assessResult": "B+",
+    "assessRecode": "3.86250",
+    "assessDes": "该员工至2022年底入职短短一半年，已迅速成长成为组内骨干成员。2022年全年表现良好，对于省份需求支持、故障排查、紧急任务支援等方面都有较好的表现。在参与的创新项目（江苏电信syslog微服务试点）中，能够迅速将自己技术储备和短期内的研究成果，使用到项目中，并最终成果交付上线，得到现场的认可。\r\n该员工在常态的开发工作外，还承担了部分省份的需求管理工作多。此工作需要频繁与研发、设计以及现场进行沟通，做到需求接收、规划和分配，以及组织需求、设计评审，并跟踪、交涉和反馈需求进度，最终保障需求的顺利交付。这一年该员工负责的省份都很好的完成了需求和项目的交付，也提现出该员工积极进取，愿意为团队分担更多的责任感。\r\n全年技术表现良好，可以灵活运用所学，积极反馈到工作中来，并且保持工作持续高效。\r\n为人开朗乐观，多次为部门组织活动，有很强的组织能力。同时也是飞书、OKR等我部门的接口人，成功做到了全方位发展。"
+  },
+  {
+    "employeeName": "钱晶晶",
+    "superiorNumber": "75945",
+    "superiorName": "潘海洋",
+    "assessPersonId": "298536",
+    "personId": "300004813",
+    "assessResult": "B",
+    "assessRecode": "3.62500",
+    "assessDes": "在本职QA工作外，还担当了部门文化使者，宣传企业文化，为团队的质量建设，文化建设起到了很好的推动作用。个人在2022整体测试工作中起到了中坚的作用，希望加大对于业务及技术的学习，能够在自动化及SEG方面有更大地提升。"
+  },
+  {
+    "employeeName": "肖定华",
+    "superiorNumber": "303962",
+    "superiorName": "杨鑫瑞",
+    "assessPersonId": "298537",
+    "personId": "300004817",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "工作态度积极，能主动开展工作，对工作内容认真负责。后续加强岗位综合能力提升，主动思考端点安全管理能力提升，做出突破。"
+  },
+  {
+    "employeeName": "吴超",
+    "superiorNumber": "75945",
+    "superiorName": "潘海洋",
+    "assessPersonId": "298538",
+    "personId": "300004819",
+    "assessResult": "B",
+    "assessRecode": "3.53750",
+    "assessDes": "完成20+SR任务，提出了110+case数，为UAP的质量保障做出了贡献，希望加强业务及技术学习，能够迅速成长，为自动化测试及安全测试领域做出更多贡献。"
+  },
+  {
+    "employeeName": "万东胜",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298539",
+    "personId": "300004821",
+    "assessResult": "B+",
+    "assessRecode": "3.90000",
+    "assessDes": "1. 参与了 4 个重点项目：SL 版本、IDE 升级、SP1 和纳管版本开发，其中前 2 个项目都是主力研发。\r\n2. 在各个项目开发过程中，遇到技术难题有死磕的精神，并最终攻克了多个难点问题，表现出了很好的工程师钻研精神和动手能力。\r\n寄语：\r\n1. 继续学习，不断提升 windows 核心开发能力，成长为某个领域的专家 。\r\n2. 加强技术分享，扩展技术影响力。"
+  },
+  {
+    "employeeName": "黄盛祺",
+    "superiorNumber": "305625",
+    "superiorName": "季剑锋",
+    "assessPersonId": "298540",
+    "personId": "300004830",
+    "assessResult": "B",
+    "assessRecode": "3.60000",
+    "assessDes": "黄盛琪工作认真负责，能后较好的完成给予的任务，相关接口人反馈良好，希望在新的一年里再接再厉，在SEG为我们的客户提供高质量的解决方案。"
+  },
+  {
+    "employeeName": "刘佳鑫",
+    "superiorNumber": "77343",
+    "superiorName": "叶原",
+    "assessPersonId": "298541",
+    "personId": "300004833",
+    "assessResult": "A",
+    "assessRecode": "4.27500",
+    "assessDes": "去年确实是充满挑战的一年，尝试新的工作，接受新的挑战，虽然过程痛苦，但在努力和探索下，取得是成果也是实实在在的。除了经验和技能，传播也是思维和思路的考验，希望今年，在踏实理解产品技术内容，更好的提升内容编写能力的同事，能够看到更加Social传播化的转变。"
+  },
+  {
+    "employeeName": "李明哲",
+    "superiorNumber": "30691",
+    "superiorName": "姚常晔",
+    "assessPersonId": "298542",
+    "personId": "300004835",
+    "assessResult": "B",
+    "assessRecode": "3.52500",
+    "assessDes": "李明哲同志有着与生俱来的对待技术的热情，有着不解决问题不罢休的精气神。出色的完成了联通4A项目的数据割接、日常维护工作。希望在23年继续加强需求沟通、技术方案与文档的编写能力，加强与客户的沟通，加强与内部研发的沟通协调，乐于分享自己的技术经验，努力成为团队中的技术大拿。"
+  },
+  {
+    "employeeName": "李剑",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298543",
+    "personId": "300004838"
+  },
+  {
+    "employeeName": "毕治荣",
+    "superiorNumber": "88100",
+    "superiorName": "刘佳轩",
+    "assessPersonId": "298544",
+    "personId": "300004846",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "该员工在2022年中表现良好，在工作中积极主动，获得客户和销售同事的一致好评，希望未来再接再厉，为省办做好售后保障同时培养出优秀的渠道技术。"
+  },
+  {
+    "employeeName": "陈杰",
+    "superiorNumber": "16404",
+    "superiorName": "吴其锋",
+    "assessPersonId": "298545",
+    "personId": "300004849",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "认真积极完成工作任务，与同事协同相处友好。"
+  },
+  {
+    "employeeName": "王新",
+    "superiorNumber": "301321",
+    "superiorName": "秦勇",
+    "assessPersonId": "298546",
+    "personId": "300004853",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "王新，其实我对你的期望很高，但是你今年的表现其实远远低于我的期望。你需要提升的点：\r\n1. 遵守团队规范，按时按点提交周报。\r\n2. 符合开发规范，根据需求评估deadline，并遵循deadline完成任务，风险提前告知。\r\n3. 在分配的任务完成中需要有自己的思考，才能做出远超他人预期的任务。\r\n4. 团队分享，文档输出不足。\r\n希望你能自我改进。"
+  },
+  {
+    "employeeName": "吴薇",
+    "superiorNumber": "395034",
+    "superiorName": "李卫彪",
+    "assessPersonId": "298547",
+    "personId": "300004856",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "能够很好的完成本职工作，对日常管理能够提出合理化建议，工作认真负责"
+  },
+  {
+    "employeeName": "马超",
+    "superiorNumber": "395022",
+    "superiorName": "钟宏运",
+    "assessPersonId": "298548",
+    "personId": "300004859"
+  },
+  {
+    "employeeName": "胡欣欣",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298549",
+    "personId": "300004861",
+    "assessResult": "B",
+    "assessRecode": "3.60000",
+    "assessDes": "1. 在 2022 年的工作非常努力，开发效率和开发能力有较大进步。\r\n2. 在 QT GUI 开发方面掌握的比较好，但是对 windows 系统的理解有待进一步提升。\r\n寄语：\r\n1. 加强对 windows 系统和 OSCE 架构的理解，扩展自己的技术面。\r\n2. 通过 SEG cases 处理，积累 troubleshooting 经验，提升对软件设计严谨性的理解。"
+  },
+  {
+    "employeeName": "郑佳旭",
+    "superiorNumber": "0228",
+    "superiorName": "于青",
+    "assessPersonId": "298550",
+    "personId": "300004867",
+    "assessResult": "A",
+    "assessRecode": "4.25000",
+    "assessDes": "总体来讲，对资质认证工作保持高度的工作激情，工作积极主动性很强，乐于接受挑战，不断自我提升。在全年的工作中，除了安全行业类资质外，完成了很多新增资质的工作，特别是产品认证工作。希望今后在情绪上能更好的把控自己，将会有更好的发展前途。"
+  },
+  {
+    "employeeName": "张翔",
+    "superiorNumber": "300699",
+    "superiorName": "孔祥恩",
+    "assessPersonId": "298551",
+    "personId": "300004869",
+    "assessResult": "B+",
+    "assessRecode": "3.90000",
+    "assessDes": "good"
+  },
+  {
+    "employeeName": "李梦雪",
+    "superiorNumber": "302542",
+    "superiorName": "鄂鹏",
+    "assessPersonId": "298552",
+    "personId": "300004876",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "工作认真负责，态度积极，能够很好的完成任务。 编码能力、设计思路有明显提升。希望在新的一年里加强对产品业务的理解，加强业务设计能力，早日成为团队的中流砥柱。"
+  },
+  {
+    "employeeName": "汪建",
+    "superiorNumber": "395022",
+    "superiorName": "钟宏运",
+    "assessPersonId": "298553",
+    "personId": "300004880"
+  },
+  {
+    "employeeName": "陈磊",
+    "superiorNumber": "306012",
+    "superiorName": "江海",
+    "assessPersonId": "298554",
+    "personId": "300004888"
+  },
+  {
+    "employeeName": "高申",
+    "superiorNumber": "66917",
+    "superiorName": "刘昭",
+    "assessPersonId": "298555",
+    "personId": "300004891",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "2022年相比2021年有不少进步，工作积极主动，系统运行稳定，数据上报方面需要进一步加强，了解上报规则，集团数据上报程序需要进一步完善，避免上报程序挂了还不知道的情况；后续要加强自身业务能力提升，不能满足现状，要不断提高4A系统的业务能力，同时要不断学习新知识，新技术，不断拓展新的业务，使自己不断进步。"
+  },
+  {
+    "employeeName": "范瑞清",
+    "superiorNumber": "75355",
+    "superiorName": "李丙崇",
+    "assessPersonId": "298556",
+    "personId": "300004896",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "能够按时完成分配的研发工作任务，并保证交付产品需求的质量，能够有效的沟通业务产品需求、及时反馈问题；新的一年希望可以继续努力，交付更好的产品需求组件，持续的对业务产品ui设计进行提升，持续的维护用户体验设计规范文档；"
+  },
+  {
+    "employeeName": "马春宇",
+    "superiorNumber": "395029",
+    "superiorName": "王利军",
+    "assessPersonId": "298557",
+    "personId": "300004898"
+  },
+  {
+    "employeeName": "李希达",
+    "superiorNumber": "305554",
+    "superiorName": "郭诚智",
+    "assessPersonId": "298558",
+    "personId": "300004903",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "整体超过个人T2职级技术能力，工作态度方面稍有欠缺"
+  },
+  {
+    "employeeName": "赵婷",
+    "superiorNumber": "395029",
+    "superiorName": "王利军",
+    "assessPersonId": "298559",
+    "personId": "300004915"
+  },
+  {
+    "employeeName": "延凯纪",
+    "superiorNumber": "303788",
+    "superiorName": "韩明",
+    "assessPersonId": "298560",
+    "personId": "300004917",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "被评价人在2022年度考核周期内工作态度踏实、认真。作为产品经理具备较好的市场思维，通过各局点横向功能对比，将DMA差异化功在各局点进行推广，通过和市场以及研发团队的有效配合2022年实现了DMA产品的有效增长。\r\n同时需要多去前端市场侧了解用户最新的业务需求、在技术可行的前提下多思考范围更广的业务方向；也需要持续提升技术深度和广度。"
+  },
+  {
+    "employeeName": "张爱臣",
+    "superiorNumber": "300758",
+    "superiorName": "杨磊",
+    "assessPersonId": "298561",
+    "personId": "300004928",
+    "assessResult": "B",
+    "assessRecode": "3.71250",
+    "assessDes": "工作责任心和积极性在省办售前中是最好的，但是在售前交流及文档能力方面有明显的缺陷，需要进行提升，POC能力非常强"
+  },
+  {
+    "employeeName": "肖楠",
+    "superiorNumber": "304375",
+    "superiorName": "郭宝良",
+    "assessPersonId": "298562",
+    "personId": "300004933",
+    "assessResult": "B+",
+    "assessRecode": "3.81250",
+    "assessDes": "肖楠作为售前工程师定期进行学习，能够及时响应分配的任务、及时响应各销售的需求，协助部门超额完成了订单指标，能够独立承担项目交流、需求编写、招投标文件的编写，在做好本职工作的情况下还能够支持其他省办进行售前支持。但后续还需要持续加强售前能力，不断提升各项技能，为公司、为部门创造更大的价值。"
+  },
+  {
+    "employeeName": "张卫辉",
+    "superiorNumber": "304389",
+    "superiorName": "刘立军",
+    "assessPersonId": "298563",
+    "personId": "300004935"
+  },
+  {
+    "employeeName": "朱亚菲",
+    "superiorNumber": "12169",
+    "superiorName": "胡冰玉",
+    "assessPersonId": "298564",
+    "personId": "300004937",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "电信行业支持丰富，善于沟通交流，后续继续保持公司产品的技术底层理解，安全专业的技术理解，发挥更大的价值。"
+  },
+  {
+    "employeeName": "孔令伟",
+    "superiorNumber": "4565",
+    "superiorName": "王红卫",
+    "assessPersonId": "298565",
+    "personId": "300004939"
+  },
+  {
+    "employeeName": "曹建仓",
+    "superiorNumber": "303943",
+    "superiorName": "王玉升",
+    "assessPersonId": "298566",
+    "personId": "300004950"
+  },
+  {
+    "employeeName": "马聪",
+    "superiorNumber": "306212",
+    "superiorName": "熊睿",
+    "assessPersonId": "298567",
+    "personId": "300004952",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "完成分中心对亚信安全的考核指标，协助完成分中心任务"
+  },
+  {
+    "employeeName": "马雨涵",
+    "superiorNumber": "303798",
+    "superiorName": "金龙",
+    "assessPersonId": "298568",
+    "personId": "300004954",
+    "assessResult": "B+",
+    "assessRecode": "3.78750",
+    "assessDes": "各项重要指标均有效达成，高效完成各项工作任务。"
+  },
+  {
+    "employeeName": "刘育莹",
+    "superiorNumber": "304349",
+    "superiorName": "张忠山",
+    "assessPersonId": "298569",
+    "personId": "300004956",
+    "assessResult": "A",
+    "assessRecode": "4.36250",
+    "assessDes": "2023年，保持斗志，奋斗进取，金融安服订单，更上一层楼。"
+  },
+  {
+    "employeeName": "田力",
+    "superiorNumber": "303943",
+    "superiorName": "王玉升",
+    "assessPersonId": "298570",
+    "personId": "300004972",
+    "assessResult": "B+",
+    "assessRecode": "3.87500",
+    "assessDes": "积极主动推动研发数字化指标、IPD流程、敏捷开发流程的建立与完善，极大提高了团队的规范化，保障项目的交付效率与质量。\r\n完美支撑了信安帮、安全运营平台的各类研发保障工作，期间完成了DevOps、IPD等规范流程建立并完成众多自动化测试相关工作，极大提高了研发效率与质量，提高了自动化测试覆盖度。"
+  },
+  {
+    "employeeName": "祁虹",
+    "superiorNumber": "304619",
+    "superiorName": "许维争",
+    "assessPersonId": "298571",
+    "personId": "300004974",
+    "assessResult": "A",
+    "assessRecode": "4.55000",
+    "assessDes": "该同事在22年度期间不断提高站位，注重自我提升，善于思考，吃苦耐劳，除了圆满完成本质工作以外对省办的管理工作也提供了有效的协助，尤其在数字化管理方面成绩突出，建议公司在年度评优方面能够予以考虑。"
+  },
+  {
+    "employeeName": "马仁鹏",
+    "superiorNumber": "88100",
+    "superiorName": "刘佳轩",
+    "assessPersonId": "298572",
+    "personId": "300004976",
+    "assessResult": "B+",
+    "assessRecode": "3.91250",
+    "assessDes": "该员工在2022年表现优异，学习能力强，客户和销售满意度高。在高原地区两省奔波，主动挖掘商机和参与POC工作，为销售做到有力支撑。"
+  },
+  {
+    "employeeName": "毛亦轩",
+    "superiorNumber": "74293",
+    "superiorName": "曹同玥",
+    "assessPersonId": "298573",
+    "personId": "300004980",
+    "assessResult": "B+",
+    "assessRecode": "3.95000",
+    "assessDes": "除了支撑医教行业销售团队的本职工作外，还投入大量精力来帮助其他团队同事完成项目，并较高质量的完成了多项解决方案编写和运营工作。今年负责等保、信创、医疗、医药制造等解决方案运营，输出并运营高质量方案文档如销售一指禅、渠道赋能PPT、方案模版等，其中等保方案成效明显，使得省办能积极的参与到客户的等保项目中，并产生大量业绩和商机。工作非常努力，下半年工时1123，平均每天工作超过11小时。希望在新的一年里再接再厉，实现自我突破，交出更好的成绩。"
+  },
+  {
+    "employeeName": "刘苗苗",
+    "superiorNumber": "305040",
+    "superiorName": "马建",
+    "assessPersonId": "298574",
+    "personId": "300004982",
+    "assessResult": "A",
+    "assessRecode": "4.40000",
+    "assessDes": "工作积极主动，有大局观，责任心强，处理问题灵活高效。省办各个部门同事反馈都非常不错，为整个省办的工作效率提升，团队建设起到了很大的推动作用。"
+  },
+  {
+    "employeeName": "王坤",
+    "superiorNumber": "82040",
+    "superiorName": "张首举",
+    "assessPersonId": "298575",
+    "personId": "300004990"
+  },
+  {
+    "employeeName": "赵伟",
+    "superiorNumber": "302634",
+    "superiorName": "史晶琰",
+    "assessPersonId": "298576",
+    "personId": "300005000"
+  },
+  {
+    "employeeName": "陆娇娇",
+    "superiorNumber": "302634",
+    "superiorName": "史晶琰",
+    "assessPersonId": "298577",
+    "personId": "300005002",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "业务知识扎实，DCP版本测试工作完成较好、无现网的重大故障泄漏。\r\n测试通用技术能力如功能、自动化、性能、稳定性测试均符合岗位。\r\n后续可加强其他产品的学习，进行交叉测试，并且多在团队内进行经验的分享交流。"
+  },
+  {
+    "employeeName": "李人杰",
+    "superiorNumber": "79642",
+    "superiorName": "侯文杰",
+    "assessPersonId": "298578",
+    "personId": "300005006",
+    "assessResult": "B",
+    "assessRecode": "3.65000",
+    "assessDes": "能够完成工作任务，对于新产品的技术的掌握要加强，需求设计后续多从产品角度考虑，设计的更加灵活，减少需求变更引起的工作量"
+  },
+  {
+    "employeeName": "归建平",
+    "superiorNumber": "303118",
+    "superiorName": "张利洁",
+    "assessPersonId": "298579",
+    "personId": "300005010",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "有较强的项目管理能力，能制定比较详细的项目计划；\r\n在和客户沟通中发挥重要作用；\r\n在项目组中以身作则，能很好的带领项目团队。"
+  },
+  {
+    "employeeName": "胡翔",
+    "superiorNumber": "301281",
+    "superiorName": "胡彬",
+    "assessPersonId": "298580",
+    "personId": "300005017",
+    "assessResult": "B+",
+    "assessRecode": "3.97500",
+    "assessDes": "作为校招新人的第二年，较好的承接了团队自动化的目标和任务。\r\n"
+  },
+  {
+    "employeeName": "韩菲",
+    "superiorNumber": "303407",
+    "superiorName": "屈萌",
+    "assessPersonId": "298581",
+    "personId": "300005025"
+  },
+  {
+    "employeeName": "韩艳东",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298582",
+    "personId": "300005035",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "1. 能够负责相关产品的预研工作与交付\r\n2. 需要继续加强对于威胁的理解"
+  },
+  {
+    "employeeName": "彭建",
+    "superiorNumber": "300758",
+    "superiorName": "杨磊",
+    "assessPersonId": "298583",
+    "personId": "300005037",
+    "assessResult": "A",
+    "assessRecode": "4.07500",
+    "assessDes": "售前能力，及工作的积极性都比较强，但是对于事务上的工作如周报、周期性终结等事情偶尔拖延，需要改进，2023年整体表现优良"
+  },
+  {
+    "employeeName": "周振鹏",
+    "superiorNumber": "303953",
+    "superiorName": "赫洋",
+    "assessPersonId": "298584",
+    "personId": "300005039"
+  },
+  {
+    "employeeName": "何侃",
+    "superiorNumber": "395025",
+    "superiorName": "陈理峰",
+    "assessPersonId": "298585",
+    "personId": "300005047"
+  },
+  {
+    "employeeName": "王献海",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298586",
+    "personId": "300005056",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "在过去的一年成长很大，独立完成了DDEI的KVM版本以及DDEI国产化的预研工作，展现了非常好的学习能力和解决问题能力，在新的一年不要松懈，继续精进，早日成长为团队的核心骨干力量。"
+  },
+  {
+    "employeeName": "仇开",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298587",
+    "personId": "300005062",
+    "assessResult": "A",
+    "assessRecode": "4.00000",
+    "assessDes": "在过去的一年非常不容易，一个人维护和开发着公司的一个重要的沙箱产品，展现了非常了不起的定力，在工作中可以兢兢业业做好每一件交待的事情，愿意持续学习和提升，为DDAN产品的维护做了非常大的贡献。"
+  },
+  {
+    "employeeName": "余武哲",
+    "superiorNumber": "300568",
+    "superiorName": "盛俊军",
+    "assessPersonId": "298588",
+    "personId": "300005064",
+    "assessResult": "B+",
+    "assessRecode": "3.77500",
+    "assessDes": "今年评价：\r\n1、作为入职一年多的新员工，测试质量良好，无致命和严重等级缺陷遗漏现场，所有产品都能及时交付\r\n2、 所有的测试设计、测试用例、自动化都已录入测试测试平台，DHCP的自动部署脚本已经完成\r\n3、DHCP产品核心自动化覆盖率100%，新增需求的自动化也能及时完成\r\n4、能独立定位现场问题和故障，并且能举一反三，及时同步给其他现场\r\n5、完善性能/稳定性分析脚本/日志分析脚本已经完成，并且落地使用\r\n\r\n明年期望：\r\n1、业务和技能相关培训较少，明年在这块可以加强\r\n2、深入现场的实际应用场景，对各个现场的功能、性能要求做更深入的了解，并且落实到测试设计场景中"
+  },
+  {
+    "employeeName": "许奔",
+    "superiorNumber": "306317",
+    "superiorName": "王玉杰",
+    "assessPersonId": "298589",
+    "personId": "300005072"
+  },
+  {
+    "employeeName": "于建平",
+    "superiorNumber": "65232",
+    "superiorName": "金立东",
+    "assessPersonId": "298590",
+    "personId": "300005075",
+    "assessResult": "B+",
+    "assessRecode": "3.80000",
+    "assessDes": "能够根据产品需求进行工作量评估、合理的制定研发计划，并与团队成员一同完成研发任务，保障研发版本按计划发布、交付现网实施。可以独立解决产品研发及运维过程中遇到的问题，做事积极，能够及时响应并解决现网的问题，完成现网的交付及维护的支撑工作，同时在事后进行分析总结、积累沉淀。全年产品问题故障明显减少，质量有明显提升。\r\n在研发管理方面，以身作则，与团队一同分析解决问题，带动团队积极性的同时提升团队业务及技术能力。同时能够识别团队技能需求，主动安排多次团队技术及业务培训，提升团队的整体技术能力，同时保障产品研发的顺利进行。期望在团队梯队建设方面，能够把握团队中个人的特点，制定培养计划。"
+  },
+  {
+    "employeeName": "邵琳",
+    "superiorNumber": "304050",
+    "superiorName": "赵奉永",
+    "assessPersonId": "298591",
+    "personId": "300005079",
+    "assessResult": "B+",
+    "assessRecode": "3.92500",
+    "assessDes": "邵琳在2022年可以很好的支撑山东省办各项销售工作，学习能力较强，工作认真负责，满满正能量。严格遵守公司各项管理制度，能够遵守职业道德及保密要求。非常认同公司价值观，并能够积极践行和落地企业价值观。"
+  },
+  {
+    "employeeName": "谢振国",
+    "superiorNumber": "395029",
+    "superiorName": "王利军",
+    "assessPersonId": "298592",
+    "personId": "300005091"
+  },
+  {
+    "employeeName": "徐超",
+    "superiorNumber": "304349",
+    "superiorName": "张忠山",
+    "assessPersonId": "298593",
+    "personId": "300005095"
+  },
+  {
+    "employeeName": "任昊",
+    "superiorNumber": "303933",
+    "superiorName": "李者龙",
+    "assessPersonId": "298594",
+    "personId": "300005099",
+    "assessResult": "B+",
+    "assessRecode": "3.85000",
+    "assessDes": "新的一年，加强项目交付质量，提高项目管理能力，从技术性项目管理向综合型、技术咨询型迈进"
+  },
+  {
+    "employeeName": "李星",
+    "superiorNumber": "304389",
+    "superiorName": "刘立军",
+    "assessPersonId": "298595",
+    "personId": "300005101",
+    "assessResult": "B+",
+    "assessRecode": "3.85000",
+    "assessDes": "工作积极负责，能够出色的完成领导交付的任务，认可并能践行公司企业文化。"
+  },
+  {
+    "employeeName": "陆子健",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298596",
+    "personId": "300005105",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "应届毕业加入公司的第一年时间，展现了很好的个人学习能力和成长性，在DDEI团队有了质的提升和变化，工作态度积极认真，技术能力也有较大提升，作为部门的文化使者做出了很好的表率，今年可以继续保持这种积极向上的状态，持续打磨和提升不松懈，为团队做出更大的贡献。"
+  },
+  {
+    "employeeName": "闫寿林",
+    "superiorNumber": "304636",
+    "superiorName": "杨金逸",
+    "assessPersonId": "298597",
+    "personId": "300005108",
+    "assessResult": "A",
+    "assessRecode": "4.10000",
+    "assessDes": "闫寿林在工作上诠释了亚信安全的核心价值观，在培训赋能上全面覆盖了销售、售前、售后大部分人群，在项目上主动跟进，帮助团队完成任务。希望在2023年继续保持优秀的作风，将WAF和API的知识积累进一步传递到一线。"
+  },
+  {
+    "employeeName": "陈刘鹏",
+    "superiorNumber": "306212",
+    "superiorName": "熊睿",
+    "assessPersonId": "298598",
+    "personId": "300005112",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "有较强的售后交付能力，建议提升团队响应能力以及交流沟通能力"
+  },
+  {
+    "employeeName": "陈敬",
+    "superiorNumber": "306212",
+    "superiorName": "熊睿",
+    "assessPersonId": "298599",
+    "personId": "300005114",
+    "assessResult": "B+",
+    "assessRecode": "3.95000",
+    "assessDes": "有较强的售后交付能力，并且有售前引导以及主动商机拓展意识，期望能够具备更强的项目owner意识以及产品分享意愿"
+  },
+  {
+    "employeeName": "冯豹",
+    "superiorNumber": "60429",
+    "superiorName": "张祖国",
+    "assessPersonId": "298600",
+    "personId": "300005116"
+  },
+  {
+    "employeeName": "朱天天",
+    "superiorNumber": "71006",
+    "superiorName": "姜冬秋",
+    "assessPersonId": "298601",
+    "personId": "300005118"
+  },
+  {
+    "employeeName": "刘昊",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298602",
+    "personId": "300005120",
+    "assessResult": "B",
+    "assessRecode": "3.71250",
+    "assessDes": "过去的一年是加入亚信安全的第一年，总体上很好的完成了TDA和TDP产品的功能测试和质量保证工作，展现了很好的技术学习能力和成长性，在今年的工作中可以继续打磨和提升自己的专业能力，形成文档化做总结并积极的对外分享自己的理解。"
+  },
+  {
+    "employeeName": "张光辉",
+    "superiorNumber": "14831",
+    "superiorName": "何俊超",
+    "assessPersonId": "298603",
+    "personId": "300005122",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "1，作为新人一年中从应用中心调整到深度权限，能快速适应。 2，学习能力强，很多业务不需要过多沟通，很快就可以理解 3，可以看到你积极主动学习 4，希望以后可以多和大家沟通，承担更多工作。"
+  },
+  {
+    "employeeName": "刘海洋",
+    "superiorNumber": "14831",
+    "superiorName": "何俊超",
+    "assessPersonId": "298604",
+    "personId": "300005124",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "1，用户中心，由加入开发成长为模块负责人进步巨大。 2，平时积极主动学习，愿意接受挑战。 3，有很好的积累习惯，形成文档，反思进步。 4，希望之后再接再厉。"
+  },
+  {
+    "employeeName": "段天齐",
+    "superiorNumber": "395021",
+    "superiorName": "薛卫晖",
+    "assessPersonId": "298605",
+    "personId": "300005126"
+  },
+  {
+    "employeeName": "杨健楠",
+    "superiorNumber": "14831",
+    "superiorName": "何俊超",
+    "assessPersonId": "298606",
+    "personId": "300005132",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "2022年，作为核心骨干，深度参与深度权限模块的方案设计以及功能开发，按期保质完成版本发布。业务层面上，对运营商、域外的权限管理有较深入的业务理解；技术层面上，对熟练掌握微服务开发框架；沟通协作层面，与测试、其他研发团队配合顺畅。\r\n2023年，部门的业务目标逐渐清晰，各研发部门都面临着极大的挑战，希望在这个平台中，能够不忘初心，伴随公司的业务壮大，不断自我提升。"
+  },
+  {
+    "employeeName": "王宇轩",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298607",
+    "personId": "300005134",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "1. 能够胜任工作，有质量按时完成任务\r\n2. 需要加强对于技术的深度"
+  },
+  {
+    "employeeName": "潘振林",
+    "superiorNumber": "302606",
+    "superiorName": "单家伟",
+    "assessPersonId": "298608",
+    "personId": "300005136"
+  },
+  {
+    "employeeName": "徐鹏",
+    "superiorNumber": "74507",
+    "superiorName": "母志武",
+    "assessPersonId": "298609",
+    "personId": "300005138",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "能够很好的完成相关测试工作，希望在工作、学习和沟通上可以利用好OKR的工具，思考团队和个人的价值和目标，明确关键任务，有意识的改变思维模式，阶段的检查完成情况，从中得到肯定并不断提升，寻求变化和成长"
+  },
+  {
+    "employeeName": "李志龙",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298610",
+    "personId": "300005140",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "过去的一年是加入亚信安全的第一年，总体上很好的完成了TDA和TDP产品的功能测试和质量保证工作，展现了很好的技术学习能力和成长性，在今年的工作中可以继续打磨和提升自己的专业能力，形成文档化做总结并积极的对外分享自己的理解。"
+  },
+  {
+    "employeeName": "师涌江",
+    "superiorNumber": "300442",
+    "superiorName": "李文兴",
+    "assessPersonId": "298611",
+    "personId": "300005144",
+    "assessResult": "B",
+    "assessRecode": "3.65000",
+    "assessDes": "该员工技术全面，工作态度认真，责任心强，执行力强，能够按时完成上级安排的工作任务。负责的产品线较多，要求技术能力的全面和不断的学习进度，能够按时的完成各项目的交付功能，并能够积极主动支撑其他项目工作。2023年已扬帆起航，希望依旧能够不断学习和创新，保持良好的工作态度，加强沟通能力的培养，提高个人综合能力，创造更好地成绩。"
+  },
+  {
+    "employeeName": "乔冬",
+    "superiorNumber": "67662",
+    "superiorName": "徐欢",
+    "assessPersonId": "298612",
+    "personId": "300005145",
+    "assessResult": "B+",
+    "assessRecode": "3.80000",
+    "assessDes": "1、作为新员工进步较快，可以独立完成和交付对应的研发任务，对新的工作内容响应较快\r\n2、需要通过自我学习，拓展加强一些解决问题的思路，"
+  },
+  {
+    "employeeName": "谢晨曦",
+    "superiorNumber": "74253",
+    "superiorName": "刘政平",
+    "assessPersonId": "298613",
+    "personId": "300005149"
+  },
+  {
+    "employeeName": "王琦",
+    "superiorNumber": "74253",
+    "superiorName": "刘政平",
+    "assessPersonId": "298614",
+    "personId": "300005151",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "工作的主动性和专业性有所提升，需要提高制定GTM的能力、面向市场的品牌宣传能力、产品专家能力，能够高效的工作，实现GTM目标。"
+  },
+  {
+    "employeeName": "李诗语",
+    "superiorNumber": "75945",
+    "superiorName": "潘海洋",
+    "assessPersonId": "298615",
+    "personId": "300005153"
+  },
+  {
+    "employeeName": "费大胜",
+    "superiorNumber": "304511",
+    "superiorName": "李铜舒",
+    "assessPersonId": "298616",
+    "personId": "300005155",
+    "assessResult": "C",
+    "assessRecode": "3.45000",
+    "assessDes": "员工需要在工作过程中摆正心态，及时调整自己的技术栈，积极响应产品研发的需求，深入思考设计逻辑和解决方案；不断为产品线和团队输出自己的贡献。"
+  },
+  {
+    "employeeName": "覃文成",
+    "superiorNumber": "300399",
+    "superiorName": "阚圣哲",
+    "assessPersonId": "298617",
+    "personId": "300005157"
+  },
+  {
+    "employeeName": "吕科杰",
+    "superiorNumber": "75934",
+    "superiorName": "曹磊",
+    "assessPersonId": "298618",
+    "personId": "300005159"
+  },
+  {
+    "employeeName": "胡越",
+    "superiorNumber": "300499",
+    "superiorName": "王绪国",
+    "assessPersonId": "298620",
+    "personId": "300005163",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工作态度良好，完成度良好。"
+  },
+  {
+    "employeeName": "刘宝莹",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298621",
+    "personId": "300005165",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "1. 工作认真负责， 技术水平逐步提升， 支持多项信创订单的紧急需求\r\n2. 2022年对于整体设计提升较大， 能够独挡一面，作为2021年加入的员工， 有较好的表现与担当\r\n3. 支撑了工行的零信任测试， 在疫情最有挑战的阶段， 在客户现场测试， 体现了主人翁精神"
+  },
+  {
+    "employeeName": "刘孟元",
+    "superiorNumber": "301337",
+    "superiorName": "杨铮",
+    "assessPersonId": "298622",
+    "personId": "300005167",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "2022年孟元年初从主机加固团队出来之后，立马投入容器安全团队，在过程中独立完成容器安全服务端的开发任务，年中又带领新入职的校招进行开发。并完成搭建项目框架、jenkins环境、单元测试、打包安装脚本编写。\r\n不足之处，有一些蒙头开发的趋势，要多和其他人交流，多分享。项目开发流程上要多注意公司的项目规范，多汇报，多评审，打磨自己的设计。"
+  },
+  {
+    "employeeName": "王鹏",
+    "superiorNumber": "76174",
+    "superiorName": "蔡竞然",
+    "assessPersonId": "298623",
+    "personId": "300005170",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "年度贡献部分超出预期，在Windows病毒检测和ELF病毒检测上均完成了既定目标，样本分析方面也成长的很快。希望在新的一年里继续努力！ "
+  },
+  {
+    "employeeName": "杨俊川",
+    "superiorNumber": "303465",
+    "superiorName": "向剑岭",
+    "assessPersonId": "298624",
+    "personId": "300005172",
+    "assessResult": "B+",
+    "assessRecode": "3.95000",
+    "assessDes": "该员工在工作中态度认真，对于自己承担的任务能够主动推进。学习进步也比较快，对于常见的威胁知识已经有了很好的掌握。在过去一年的发展中，已经具有独立进行威胁研判的能力，日常的威胁研判主要都由其完成。过去的一年中，该员工承担了Malware家族研究的大部分工作，对于逆向、测绘、Yara规则、流量都有了不同程度的进步。"
+  },
+  {
+    "employeeName": "查文利",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298625",
+    "personId": "300005174"
+  },
+  {
+    "employeeName": "蒋可",
+    "superiorNumber": "303275",
+    "superiorName": "张世同",
+    "assessPersonId": "298626",
+    "personId": "300005176",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "独立按期完成5个引擎版本的研发工作；并配合产品进行集成，集成手册质量较高。保证部门总体目标的完成。\r\n和架构师，产品研发部保持积极沟通，确保引擎集成工程顺利完成。\r\n保持对新技术的追求，尝试魔龙云查杀的研发，并取得不错的效果。"
+  },
+  {
+    "employeeName": "施非",
+    "superiorNumber": "302606",
+    "superiorName": "单家伟",
+    "assessPersonId": "298627",
+    "personId": "300005178",
+    "assessResult": "B+",
+    "assessRecode": "3.92500",
+    "assessDes": "对于工作认真负责，能够高效的完成分配的工作任务，同时能够主动学习，积极分享，并影响团队成员。希望新的一年能够继续拓宽自己技术栈，并应用到工作之中，发挥自我最大价值。"
+  },
+  {
+    "employeeName": "姬子恒",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298628",
+    "personId": "300005182",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "保留"
+  },
+  {
+    "employeeName": "汤曦",
+    "superiorNumber": "76174",
+    "superiorName": "蔡竞然",
+    "assessPersonId": "298629",
+    "personId": "300005184",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "年度贡献部分超出预期，在Windows病毒检测与office病毒检测上均完成了既定目标，样本分析方面也成长的很快，作为文化大使也很好的完成了工作。希望在新的一年里继续努力！ \r\n"
+  },
+  {
+    "employeeName": "安晓芸",
+    "superiorNumber": "302606",
+    "superiorName": "单家伟",
+    "assessPersonId": "298630",
+    "personId": "300005187",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "对于工作认真负责，能够高效的完成分配的工作任务，同时能够主动学习，积极分享，并影响团队成员。希望新的一年能够继续拓宽自己技术栈，并应用到工作之中，发挥自我最大价值。"
+  },
+  {
+    "employeeName": "段燕飞",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298631",
+    "personId": "300005190",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "保留"
+  },
+  {
+    "employeeName": "李源",
+    "superiorNumber": "300399",
+    "superiorName": "阚圣哲",
+    "assessPersonId": "298632",
+    "personId": "300005193"
+  },
+  {
+    "employeeName": "钟雪梅",
+    "superiorNumber": "301337",
+    "superiorName": "杨铮",
+    "assessPersonId": "298633",
+    "personId": "300005196",
+    "assessResult": "B",
+    "assessRecode": "3.57500",
+    "assessDes": "雪梅在今年完成的开发任务数量14个，占团队总任务数8.43%，高出人均任务数2个，作为毕业一年的应届毕业生，今年的提升很大，能够独立完成交予的开发任务。\r\n不足之处也比较明显，做设计时考虑问题不够全面，出现了几次阻塞性严重case\r\n后续期望，加强代码学习，熟悉业务，期望在项目上做出更大的共贡献"
+  },
+  {
+    "employeeName": "葛娜",
+    "superiorNumber": "301281",
+    "superiorName": "胡彬",
+    "assessPersonId": "298634",
+    "personId": "300005202"
+  },
+  {
+    "employeeName": "曾圆麒",
+    "superiorNumber": "301281",
+    "superiorName": "胡彬",
+    "assessPersonId": "298635",
+    "personId": "300005205",
+    "assessResult": "A",
+    "assessRecode": "4.16250",
+    "assessDes": "该员工成长较快，目前已经能独当一面的负责无代理相关的测试工作，工作中积极思考举一反三，较好的保障了无代理版本的交付质量。"
+  },
+  {
+    "employeeName": "余波",
+    "superiorNumber": "301321",
+    "superiorName": "秦勇",
+    "assessPersonId": "298636",
+    "personId": "300005208",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "余波，工作中勤恳务实，善于学习和思考，对于分配的任务能很好的完成。任务的完成常常超出预定期望。同时，也能总结输出，给他人分享。但是，也有提升空间：\r\n1. 思考为什么这么做，自己的方案是撒，几种方案中那种是最好的，他的缺陷是什么。\r\n2. 能自己给自己找事，这样才能让做的事经常超出别人的期望。\r\n"
+  },
+  {
+    "employeeName": "邓锌",
+    "superiorNumber": "301281",
+    "superiorName": "胡彬",
+    "assessPersonId": "298637",
+    "personId": "300005211",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "较好的完成了上级分配的任务，过去一年成长较快，需要进一步加深相关知识和DS的业务逻辑学习，并做好分享。"
+  },
+  {
+    "employeeName": "郭亦博",
+    "superiorNumber": "302606",
+    "superiorName": "单家伟",
+    "assessPersonId": "298638",
+    "personId": "300005214",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "对于工作认真负责，能够高效的完成分配的工作任务，同时能够主动学习，积极分享，并影响团队成员。希望新的一年能够继续拓宽自己技术栈，并应用到工作之中，发挥自我最大价值。"
+  },
+  {
+    "employeeName": "陈德文",
+    "superiorNumber": "30338",
+    "superiorName": "武孔林",
+    "assessPersonId": "298639",
+    "personId": "300005223",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "2022表现出色，虽然只有一年工作经验，但是实际能力毫不逊色于工作两三年的研发；如期交付了神州通用数据库动态脱敏、达梦业务数据库替换、备份还原、恢复出厂设置等复杂度比较高的需求；同时能独立完成需求分析设计，也能攻坚研发中的重大难题；同时日常迭代中尽职尽责，并支撑重点项目的升级保障工作，保障任务进度的如期开展和交付。希望2023年，再接再厉有出色表现和技能提升，同时更多的承接技术攻关的任务。"
+  },
+  {
+    "employeeName": "陆嘉琪",
+    "superiorNumber": "65706",
+    "superiorName": "王纯波",
+    "assessPersonId": "298640",
+    "personId": "300005239",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "经过1年半的业务和技术学习，目前已经成长为DHCP产品线交付的中坚力量。对于DHCP、号百彩铃与行业短信等业务熟练掌握，可以独立承担项目交付、运维。日常协助项目经理做好了相关项目的需求客户沟通、项目的验收等工作，得到项目经理的肯定。23年希望继续努力主动承担更多、更重要的工作，能够成长为项目组的骨干，可以独立承担重大项目的交付、割接，在项目管理方面学习积累，全面发展！"
+  },
+  {
+    "employeeName": "刘鑫",
+    "superiorNumber": "303320",
+    "superiorName": "佘怀化",
+    "assessPersonId": "298641",
+    "personId": "300005241",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "有了较大的进步，已经成长为一名合格的测试工程师"
+  },
+  {
+    "employeeName": "马小龙",
+    "superiorNumber": "71076",
+    "superiorName": "张满足",
+    "assessPersonId": "298642",
+    "personId": "300005243",
+    "assessResult": "B+",
+    "assessRecode": "3.92500",
+    "assessDes": "    一年多的时间里，成长较快，从刚毕业时间的懵懂，现在已经基本能独立承担运维工作，责任心慢慢增强，任务完成的越来越好，值得表扬。在后续的工作中再接再厉，取得个人的更好成绩。在接下来的工作中，注意培养自己在标准化文档上的能力，更好更标准的进行日常运维工作。总体来说态度很好，值得表扬，期待随着时间增长，能有更大的成长，更多的责任心，更好的自己。"
+  },
+  {
+    "employeeName": "余志雄",
+    "superiorNumber": "69432",
+    "superiorName": "林宝星",
+    "assessPersonId": "298644",
+    "personId": "300005257"
+  },
+  {
+    "employeeName": "詹子愫",
+    "superiorNumber": "61340",
+    "superiorName": "叶晟",
+    "assessPersonId": "298645",
+    "personId": "300005260",
+    "assessResult": "B",
+    "assessRecode": "3.52500",
+    "assessDes": "遵守设计规范，提供符合使用情境的设计案，独立完成主风格设计，并提供较佳的设计产出。参与设计讨论，和开发团队共同创建用户界面。关注团队目标，与同事合作、沟通顺畅，具有良好的学习能力和沟通能力，积极主动有责任感。"
+  },
+  {
+    "employeeName": "崔帅峰",
+    "superiorNumber": "303872",
+    "superiorName": "许奔",
+    "assessPersonId": "298646",
+    "personId": "300005266",
+    "assessResult": "B",
+    "assessRecode": "3.61250",
+    "assessDes": "2022年该员工自觉遵守公司的规章制度，学习公司文化，积极参与公司组织的各项培训。工作上主要支撑其他区域进行项目实施，能积极有效沟通，协作同事，高质量、高效率的完成项目任务。项目上能够快速响应客户需求，有效的处理客户和公司之间的各项事件。团队协作上加强与同事沟通，并定期与协作部门进行沟通反馈，对其他协作部门反馈也积极响应。"
+  },
+  {
+    "employeeName": "鲁铭杰",
+    "superiorNumber": "304617",
+    "superiorName": "范孟飞",
+    "assessPersonId": "298647",
+    "personId": "300005269"
+  },
+  {
+    "employeeName": "陈仁",
+    "superiorNumber": "301311",
+    "superiorName": "张书玮",
+    "assessPersonId": "298648",
+    "personId": "300005270",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "交代的工作都能按时完成，独立学习的能力较好，与同事相处融洽，很好的完成项目工作的安排。\r\n在2022年有了较大的进步，在竞品测试、pattern测试方面已经有了比较成熟的思路和工作理解。在2023年，要再进一步，能主动发现问题进行解决规划，同时能优化、建设更好用的自动化环境。\r\n在知识分享上，要多把自己觉得特别好的经验或者学习到的新方法、新工具使用进行分享，而不只是默默的学习。\r\n在信息摄入方面，随时要了解引擎、规则的变化和新增功能和内容，增加自己的全局观和知识面。"
+  },
+  {
+    "employeeName": "任雪丽",
+    "superiorNumber": "301311",
+    "superiorName": "张书玮",
+    "assessPersonId": "298649",
+    "personId": "300005276",
+    "assessResult": "B",
+    "assessRecode": "3.61250",
+    "assessDes": "在过去的2022年，雪丽在云查杀方面不断深入学习，形成了自己独立的一套学习方法，能够独立的承担云查杀的日常测试工作，能够及时的发现问题并反馈风险。在个人成长上也对基础自动化编程实现和运维监控有了一定进步。\r\n希望在2023年，能够不断学习和理解数据湖的设计与原理。测试上在以下方面能够更进一步：1、推进开发解决问题的能力；2、发现问题，提出优化解决的能力；3、大局观，能够站在全局视野解决问题的能力。"
+  },
+  {
+    "employeeName": "贾鸿斌",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298650",
+    "personId": "300005284",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "工作积极主动、善于学习，且学习习惯很好、吃苦耐劳，今年在上海的疫情中，始终坚持在客户一线，克服重重困难，达成高质量的客户支撑。在上海工作的一年中，多次收到项目现场的表扬，在现场各方面的做的不错，而且成长的也很快，能够积极主动的去承担重要工作或困难工作，并且都能获得比较好的效果。希望在新的一年里，再接再励，持续保持这种好的工作态度，持续创造好的成绩。"
+  },
+  {
+    "employeeName": "张煜",
+    "superiorNumber": "302542",
+    "superiorName": "鄂鹏",
+    "assessPersonId": "298651",
+    "personId": "300005291",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工作认真负责，乐于助人，在完成本职工作的基础上，还承担了一些部门日常工作为大家服务，希望在以后的工作中继续努力，持续学习，争取有更大的进步。"
+  },
+  {
+    "employeeName": "魏文辉",
+    "superiorNumber": "302542",
+    "superiorName": "鄂鹏",
+    "assessPersonId": "298652",
+    "personId": "300005293",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工作认真负责、态度积极，在开发能力上有明显提升，希望在新的一年继续努力，持续学习，加强口头表达能力。"
+  },
+  {
+    "employeeName": "刘宇超",
+    "superiorNumber": "74253",
+    "superiorName": "刘政平",
+    "assessPersonId": "298653",
+    "personId": "300005297",
+    "assessResult": "B",
+    "assessRecode": "3.56250",
+    "assessDes": "工作态度认真，对于业绩差距没有及时调整营销策略，找到新的打法来实现业绩目标。PMM的工作一定要接地气，就是要到客户中去，长期在省办协助一线团队打单及解决系统性的问题，打通产品到客户的最后一公里，形成闭环。希望未来在新的岗位上，要以目标为导向，加强网络安全专业知识的学习、提升目标的专注性及快速执行能力，在新年里能够说到做到，达成目标。"
+  },
+  {
+    "employeeName": "柳晶晶",
+    "superiorNumber": "303913",
+    "superiorName": "陈志浩",
+    "assessPersonId": "298654",
+    "personId": "300005299"
+  },
+  {
+    "employeeName": "彭源华",
+    "superiorNumber": "303483",
+    "superiorName": "莫严寒",
+    "assessPersonId": "298655",
+    "personId": "300005312",
+    "assessResult": "B",
+    "assessRecode": "3.62500",
+    "assessDes": "该员工工作态度积极并富有责任心，攻防演练期间多次主动加班，并在比赛中拿到好成绩，值守保障期间由于团队人员紧张，仍旧带领上岗，并获取客户感谢信以及公司十大卫士奖章。"
+  },
+  {
+    "employeeName": "陈世翔",
+    "superiorNumber": "63878",
+    "superiorName": "邵凡",
+    "assessPersonId": "298656",
+    "personId": "300005314",
+    "assessResult": "B",
+    "assessRecode": "3.68750",
+    "assessDes": "该员工2022年全年表现良好，对于省份需求支持、故障排查、紧急任务支援等方面都有较好的表现。\r\n全年的整体开发效率高，交付质量尚可，技术表现良好，能活学活用。\r\n为人开朗乐观，勇于参加部门组织的活动，与团队成员相处融洽，共同学习共同提高。"
+  },
+  {
+    "employeeName": "娄晨",
+    "superiorNumber": "395029",
+    "superiorName": "王利军",
+    "assessPersonId": "298657",
+    "personId": "300005316"
+  },
+  {
+    "employeeName": "蒋道文",
+    "superiorNumber": "65186",
+    "superiorName": "杨倩",
+    "assessPersonId": "298658",
+    "personId": "300005318",
+    "assessResult": "C",
+    "assessRecode": "3.45000",
+    "assessDes": "工作具有责任心，能够主动加班完成开发工作，与产品团队积极沟通，编码质量能够获得产品部通过；能够主动学习新技术，参与组件库开发，但未能够在部门内部进行技术沉淀或分享；但根据产品部反馈，希望在工作效率方面有所提高，以及希望在代码提交前进行验证；"
+  },
+  {
+    "employeeName": "杨志鹏",
+    "superiorNumber": "21467",
+    "superiorName": "李吉祥",
+    "assessPersonId": "298659",
+    "personId": "300005320"
+  },
+  {
+    "employeeName": "曾文鑫",
+    "superiorNumber": "302606",
+    "superiorName": "单家伟",
+    "assessPersonId": "298660",
+    "personId": "300005323"
+  },
+  {
+    "employeeName": "俱科尧",
+    "superiorNumber": "74207",
+    "superiorName": "李晓鸣",
+    "assessPersonId": "298661",
+    "personId": "300005327",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "该员工善于技术研究、场景研究，动手能力强，需加强个人主观意识判断多听、多看、多想。"
+  },
+  {
+    "employeeName": "刘杰",
+    "superiorNumber": "30884",
+    "superiorName": "左雅彬",
+    "assessPersonId": "298662",
+    "personId": "300005330",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "员工经过一年以来在大项目交付部，尤其是在华能项目上的历练，已经成为技术上过硬、态度积极进取、可以信赖的同事/伙伴。在各项工作中，都能较为出色的完成目标和任务。同时，因为性格相对内向，也发现了一些有待提升的不足。希望后续能够取长补短，有针对性加强个人沟通能力。"
+  },
+  {
+    "employeeName": "黄明城",
+    "superiorNumber": "71103",
+    "superiorName": "严浩",
+    "assessPersonId": "298663",
+    "personId": "300005333",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "负责湖南移动接入安全项目运维工作，支撑radius项目的日常工程交付与系统运维。后续工作期望更深入了解所负责的业务，并加强新技术新业务的学习，并配合项目团队进行需求规划等工作，配合现场团队共同学习与进步。"
+  },
+  {
+    "employeeName": "王世博",
+    "superiorNumber": "395025",
+    "superiorName": "陈理峰",
+    "assessPersonId": "298664",
+    "personId": "300005346"
+  },
+  {
+    "employeeName": "张汝汝",
+    "superiorNumber": "301207",
+    "superiorName": "邓新",
+    "assessPersonId": "298666",
+    "personId": "300005359",
+    "assessResult": "B",
+    "assessRecode": "3.71250",
+    "assessDes": "年度贡献符合预期，从护网到规则研发，都体现出了应有的能力，但还需要很大的进步空间，需要持续努力，多学习"
+  },
+  {
+    "employeeName": "刘蕾",
+    "superiorNumber": "306286",
+    "superiorName": "程洪章",
+    "assessPersonId": "298667",
+    "personId": "300005362"
+  },
+  {
+    "employeeName": "宋悦",
+    "superiorNumber": "74207",
+    "superiorName": "李晓鸣",
+    "assessPersonId": "298668",
+    "personId": "300005366",
+    "assessResult": "B+",
+    "assessRecode": "3.77500",
+    "assessDes": "驻点管理、运维执行工作较好。主动思维可再提高，可参考学习系统化理论知识，如CISP、PMP等知识。"
+  },
+  {
+    "employeeName": "罗鸿旭",
+    "superiorNumber": "30691",
+    "superiorName": "姚常晔",
+    "assessPersonId": "298669",
+    "personId": "300005376",
+    "assessResult": "B",
+    "assessRecode": "3.55000",
+    "assessDes": "本年度负责上海电信WiFi 核心网能力平台、溯源系统的运维工作，在此基础上主动承担上海运营商的标品实施维护工作，能及时有效的处理客户的邮件和问题咨询，但在维护意识和主动沟通方面有待提高"
+  },
+  {
+    "employeeName": "曾涛",
+    "superiorNumber": "63878",
+    "superiorName": "邵凡",
+    "assessPersonId": "298670",
+    "personId": "300005377",
+    "assessResult": "B+",
+    "assessRecode": "3.78750",
+    "assessDes": "该员工作为应届毕业生入职，靠自身不懈的努力从一个没有实习经验的小白，迅速成长为能够独立负责部分产品的技术人才。\r\n2022年该员工主要负责的各省份需求开发工作，都能够按质按时交付。对于必须优先处理的紧急任务也能够尽量在保障工作流程和需求安排不调整的情况下，完成支撑。对于独立负责的portal产品有着省份多、版本多、细节多等难点特征，该员工也能够很好的完成开发、联调工作，甚至是需要与现场、其他平台不断的沟通。\r\n全年技术和业务水平提升大，对待工作认真负责，愿意积极迎接困难，克服困难。\r\n该员工性格沉稳，充分融入团队，愿意主动提出问题和讨论问题，也能够积极参加部门组织的各项活动。"
+  },
+  {
+    "employeeName": "庄雁飞",
+    "superiorNumber": "75948",
+    "superiorName": "李晗",
+    "assessPersonId": "298671",
+    "personId": "300005384",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "积极进取，乐于助人，粗中有细。希望能跳出原有的思维模式，持续不断再创辉煌。"
+  },
+  {
+    "employeeName": "刘静",
+    "superiorNumber": "395318",
+    "superiorName": "高强",
+    "assessPersonId": "298672",
+    "personId": "300005401",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "业务侧：相对熟练，工作积极，能够吃苦耐劳，希望在2023能够继续保持且更进一步，在自己的岗位上更上一层楼做更好的自己"
+  },
+  {
+    "employeeName": "夏洪垚",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298673",
+    "personId": "300005406"
+  },
+  {
+    "employeeName": "周玉峰",
+    "superiorNumber": "21467",
+    "superiorName": "李吉祥",
+    "assessPersonId": "298674",
+    "personId": "300005431",
+    "assessResult": "B",
+    "assessRecode": "3.60000",
+    "assessDes": "工作积极、稳重，能够承担项目组中重要工作，客户满意度高"
+  },
+  {
+    "employeeName": "陈庄",
+    "superiorNumber": "306386",
+    "superiorName": "吴昕",
+    "assessPersonId": "298675",
+    "personId": "300005434",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "勤奋、功底扎实、多次受到网信、zjcert、杭州公安、华数客户的表扬"
+  },
+  {
+    "employeeName": "黄翔",
+    "superiorNumber": "301281",
+    "superiorName": "胡彬",
+    "assessPersonId": "298676",
+    "personId": "300005437",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工作中需要多思考，更加积极主动的提升测试效率和方法，关注时间节点，按时完成安排的相关任务。"
+  },
+  {
+    "employeeName": "高田",
+    "superiorNumber": "66917",
+    "superiorName": "刘昭",
+    "assessPersonId": "298677",
+    "personId": "300005442",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "回顾2022年，是比较繁忙的一年，但是你作为一个入职18个月的次新人来说，在升级过程中能自己独立操作，维护过程中问题处理也能独立完成，已经是很大的进步；本身你自己也比较能吃苦耐劳，遇事比较沉着冷静，这两点在后面工作中尤为重要；但是毕竟作为一个入职一年半的人员来讲，要学习、提升的东西还有很多，后面在工作中需要更加细心，发扬钻研精神，继续坚持不懈，相信你2023年会有更好的成绩；"
+  },
+  {
+    "employeeName": "张雁勇",
+    "superiorNumber": "304389",
+    "superiorName": "刘立军",
+    "assessPersonId": "298678",
+    "personId": "300005447",
+    "assessResult": "B+",
+    "assessRecode": "3.86250",
+    "assessDes": "工作积极肯干，能够出色的完成领导交付的工作任务，认可公司企业文化。"
+  },
+  {
+    "employeeName": "马阳硕",
+    "superiorNumber": "4759",
+    "superiorName": "柴明建",
+    "assessPersonId": "298679",
+    "personId": "300005449",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "1、工作积极认真，能够较好完成产品的视觉设计，根据大家评审意见进行修订，确保产品用户视觉体验一致，保障产品研发顺利进展。\r\n2、在标准化设计规范制定与评审、产品落地核查（核查产品实现与UI设计偏差）、设计素材库方面需要增强，需要定期组织相关评审，工作显性化；\r\n3、共享服务目录需要加强，至少要让所有设计内容分类分目录随时提交，共享，做到所有人随时可查阅。\r\n4、在专业技能提升方面，需要定期汇报学习计划（学习业界视觉先进理论与经验）和学习成果，学以致用，提升产品设计。并建议在23年至少组织3次以上的视觉设计分享（在现有理论基础的学习提升部分）。"
+  },
+  {
+    "employeeName": "黄毅",
+    "superiorNumber": "303757",
+    "superiorName": "陈锦",
+    "assessPersonId": "298680",
+    "personId": "300005459",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "团队意识高、技术能力强"
+  },
+  {
+    "employeeName": "刘攀锋",
+    "superiorNumber": "74304",
+    "superiorName": "朱玉珠",
+    "assessPersonId": "298681",
+    "personId": "300005461",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "工作仔细认真，能够通过各个途径寻找问题解决方案。对于由于经验不足导致的行为不规范之处，可以积极改正并避免下次犯错。希望继续注重工作流程规范的要求，案件处理细节上持续提升。"
+  },
+  {
+    "employeeName": "李鑫鑫",
+    "superiorNumber": "77951",
+    "superiorName": "潘中英",
+    "assessPersonId": "298682",
+    "personId": "300005465",
+    "assessResult": "B",
+    "assessRecode": "3.65000",
+    "assessDes": "态度正，能力强，善学习，快进步。继续加强综合能力提升，赋能团队其他人，在解决客户问题、获取客户满意度上更进一步。"
+  },
+  {
+    "employeeName": "谢皓曜",
+    "superiorNumber": "74303",
+    "superiorName": "须益华",
+    "assessPersonId": "298683",
+    "personId": "300005467"
+  },
+  {
+    "employeeName": "叶新华",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298684",
+    "personId": "300005469",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "今年的整体表现很不错，在业务能力上进步非常快，已经成为部门的规则专家。在工作上也是兢兢业业，勤勤恳恳，在华能现场也得到了项目组和客户的高度认可，希望在未来，加强一下沟通交流的能力，能够和客户打成一片，这对于未来的成长会有更大的帮助。希望在新的一年里，再接再励，持续保持这种好的工作态度，持续创造好的成绩。"
+  },
+  {
+    "employeeName": "吕海峰",
+    "superiorNumber": "77951",
+    "superiorName": "潘中英",
+    "assessPersonId": "298685",
+    "personId": "300005471",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "态度正，能力强，善学习，快进步。继续加强综合能力提升，赋能团队其他人，在解决客户问题、获取客户满意度上更进一步。"
+  },
+  {
+    "employeeName": "魏少聪",
+    "superiorNumber": "74304",
+    "superiorName": "朱玉珠",
+    "assessPersonId": "298686",
+    "personId": "300005473",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "技术学习进步显著，基础知识仍需要补充学习。文档撰写方面，需要进一步理解产品架构和基本原理，从而保证排错步骤的顺序符合逻辑，易于理解。"
+  },
+  {
+    "employeeName": "赵宏涛",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298687",
+    "personId": "300005475",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "作为刚入职1年多的员工，各方面成长都很快，今年逐步接手华能项目的需求工作，在现场承担需求经理的职责，整体做的很不错，无论是在组织协调资源方面，还是在客户需求期望方面都达成了不错的成绩。能够积极主动的去承担重要工作或困难工作，并且都能获得比较好的效果。希望在新的一年里，再接再励，继续发扬优秀的工作状态，继续高速的成长，持续输出高质量的工作成绩。"
+  },
+  {
+    "employeeName": "马乐",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298688",
+    "personId": "300005477",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "工作认真努力，全年支持了多个项目现场的工作，在每个项目现场都得到了用户及现场领导的认可。而且在一年的工作中，个人成长速度也很快，工作态度非常积极。能够积极主动的去承担重要工作或困难工作，并且都能获得比较好的效果。希望在新的一年里，再接再励，持续保持这种好的工作态度，持续创造好的成绩。"
+  },
+  {
+    "employeeName": "熊良",
+    "superiorNumber": "306012",
+    "superiorName": "江海",
+    "assessPersonId": "298693",
+    "personId": "300005491",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "沟通能力、售前售后能力需要尽快同时具备。"
+  },
+  {
+    "employeeName": "高凡",
+    "superiorNumber": "70320",
+    "superiorName": "许瑞灿",
+    "assessPersonId": "298689",
+    "personId": "300005481",
+    "assessResult": "B",
+    "assessRecode": "3.65000",
+    "assessDes": "做事认真，任劳任怨，主动反馈问题和解决问题；主动学习，工作态度端正，希望继续努力为团队发展添砖加瓦。"
+  },
+  {
+    "employeeName": "王秋皓",
+    "superiorNumber": "30884",
+    "superiorName": "左雅彬",
+    "assessPersonId": "298694",
+    "personId": "300005506",
+    "assessResult": "B+",
+    "assessRecode": "3.76250",
+    "assessDes": "值得肯定的优秀员工，能够时刻审视自身不足，直面问题并及时给予改正。持续努力工作的同时，不忘总结和回顾，能够举一反三、学以致用。在跨领域技术方面（安服），还需要不断强化自身能力。期望在产品交付使用过程中，能够总结和归纳出更好的“金点子”，成为以客户为中心，为其提供有价值的产品和服务，助力客户成功。"
+  },
+  {
+    "employeeName": "张万军",
+    "superiorNumber": "395022",
+    "superiorName": "钟宏运",
+    "assessPersonId": "298690",
+    "personId": "300005483"
+  },
+  {
+    "employeeName": "王中宏",
+    "superiorNumber": "304552",
+    "superiorName": "潘中艳",
+    "assessPersonId": "298695",
+    "personId": "300005508",
+    "assessResult": "B+",
+    "assessRecode": "3.77500",
+    "assessDes": "表现基本满足预期，还需要加强沟通水平，提高一线的满意度。"
+  },
+  {
+    "employeeName": "王钰",
+    "superiorNumber": "306163",
+    "superiorName": "于瑞阳",
+    "assessPersonId": "298691",
+    "personId": "300005485",
+    "assessResult": "B",
+    "assessRecode": "3.62500",
+    "assessDes": "员工转岗售前后又从售后工作开始干，个人能力和经验还有很大提升空间，能否符合岗位要求，独立完成省办的工作任务。"
+  },
+  {
+    "employeeName": "高玉斌",
+    "superiorNumber": "70320",
+    "superiorName": "许瑞灿",
+    "assessPersonId": "298696",
+    "personId": "300005513"
+  },
+  {
+    "employeeName": "朱亿",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298697",
+    "personId": "300005515",
+    "assessResult": "A",
+    "assessRecode": "4.00000",
+    "assessDes": "本年度， 完成多项重点项目的研发工作， 并很好的组织了南京客户端团队的工作， 指导新人快速成长"
+  },
+  {
+    "employeeName": "赵瑶",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298692",
+    "personId": "300005488"
+  },
+  {
+    "employeeName": "诸雯",
+    "superiorNumber": "303208",
+    "superiorName": "万里",
+    "assessPersonId": "298698",
+    "personId": "300005518",
+    "assessResult": "B+",
+    "assessRecode": "3.80000",
+    "assessDes": "作为T4a和后备干部梯队，需要重点提升管理理论水平和安全业务的学习"
+  },
+  {
+    "employeeName": "尹锋",
+    "superiorNumber": "302257",
+    "superiorName": "鲍俊男",
+    "assessPersonId": "298699",
+    "personId": "300005537",
+    "assessResult": "B",
+    "assessRecode": "3.58750",
+    "assessDes": "能较好地完成全年的各项工作，对挑战目标也充满激情，希望在新一年中更加积极主动，打造个性化技术能力。"
+  },
+  {
+    "employeeName": "阮银杰",
+    "superiorNumber": "302257",
+    "superiorName": "鲍俊男",
+    "assessPersonId": "298700",
+    "personId": "300005540",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "工作认真负责，对过程跟踪明确，能较好支撑销售完成营销工作。"
+  },
+  {
+    "employeeName": "杨杰",
+    "superiorNumber": "300329",
+    "superiorName": "马鹏飞",
+    "assessPersonId": "298701",
+    "personId": "300005542",
+    "assessResult": "B+",
+    "assessRecode": "3.80000",
+    "assessDes": "2022年作为一名工程师，认真负责、执行力强、学习能力强、抗压能力强。高质量高标准完成项目的交付工作，并在工作之余学习新技术以提高工作效率，积极参与公司的各项培训，不断提升个人的业务能力和技术水平。希望在2023年保持这种工作状态，多方位提升，能够将各个方面得知识融会贯通，能够胜任更多的岗位。"
+  },
+  {
+    "employeeName": "张彬",
+    "superiorNumber": "62552",
+    "superiorName": "刘彬",
+    "assessPersonId": "298702",
+    "personId": "300005545",
+    "assessResult": "B",
+    "assessRecode": "3.67500",
+    "assessDes": "入职的时候，整体基础较差，但是在一年的工作中，成长很快，效果也很明显，特别是在下半年，在四川项目现场表现突出，受到现场员工，支持部经理的一致好评，希望在新的一年里再接再励，持续努力，再创佳绩。"
+  },
+  {
+    "employeeName": "陈根",
+    "superiorNumber": "303883",
+    "superiorName": "陈康",
+    "assessPersonId": "298703",
+    "personId": "300005548",
+    "assessResult": "B",
+    "assessRecode": "3.60000",
+    "assessDes": "该员工的突出特点是承压能力强，在长江存储客户的高要求、湖北省政法委的首次新创环境实施过程成，都有着较为突出的表现"
+  },
+  {
+    "employeeName": "龙杭",
+    "superiorNumber": "15103",
+    "superiorName": "樊春刚",
+    "assessPersonId": "298704",
+    "personId": "300005553",
+    "assessResult": "B",
+    "assessRecode": "3.73750",
+    "assessDes": "学习能力突出，作为21年实习生，行业新兵，今年无论在专业能力、项目管理及综合素质方面均有飞跃性提升，可在工程交付及运维方面独当一面；较强的主人翁、团队协作意识，积极主动勇于承担，在高质量完成网信办态势感知项目的工程实施运维工作，实现项目成果基础上，主动支撑移动网络部及业支项目工作，并取得多项任务成果，有力的支撑了项目目标达成。未来在加强专业技术能力的同时，并注重项目管理能力积累和提升。"
+  },
+  {
+    "employeeName": "秦艳",
+    "superiorNumber": "302310",
+    "superiorName": "耿华磊",
+    "assessPersonId": "298705",
+    "personId": "300005555"
+  },
+  {
+    "employeeName": "赵怡焯",
+    "superiorNumber": "77951",
+    "superiorName": "潘中英",
+    "assessPersonId": "298706",
+    "personId": "300005557",
+    "assessResult": "B+",
+    "assessRecode": "3.90000",
+    "assessDes": "态度正，能力强，善学习，快进步。继续加强综合能力提升，赋能团队其他人，在解决客户问题、获取客户满意度上更进一步。"
+  },
+  {
+    "employeeName": "刘昊",
+    "superiorNumber": "395029",
+    "superiorName": "王利军",
+    "assessPersonId": "298707",
+    "personId": "300005561"
+  },
+  {
+    "employeeName": "盖娜",
+    "superiorNumber": "74516",
+    "superiorName": "吴湘宁",
+    "assessPersonId": "298708",
+    "personId": "300005575"
+  },
+  {
+    "employeeName": "周子贤",
+    "superiorNumber": "23706",
+    "superiorName": "杜萌",
+    "assessPersonId": "298709",
+    "personId": "300005577"
+  },
+  {
+    "employeeName": "吕佳豪",
+    "superiorNumber": "74204",
+    "superiorName": "邓斌",
+    "assessPersonId": "298710",
+    "personId": "300005579",
+    "assessResult": "B",
+    "assessRecode": "3.53750",
+    "assessDes": "独立完成华南蓝天、长城资产、金隅、三峡、协和医院等项目POC与实施部署工作，公司4+2产品技术能力提升，销售认可度提升；\r\n技术专家方向发展，包括新产品相关知识的学习，增强大项目的历练与学习。"
+  },
+  {
+    "employeeName": "尤伟",
+    "superiorNumber": "77322",
+    "superiorName": "陈双坡",
+    "assessPersonId": "298711",
+    "personId": "300005581",
+    "assessResult": "B",
+    "assessRecode": "3.73750",
+    "assessDes": "工作中积极响应领导与销售安排的工作任务，并能较好完成；产品深度与广度学习需要继续保持，着重提升产品故障处理能力；省办十二条令23年度需认真落实；日常工作中严格遵守公司规章制度，服从公司安排。"
+  },
+  {
+    "employeeName": "张智文",
+    "superiorNumber": "61348",
+    "superiorName": "陈发兴",
+    "assessPersonId": "298712",
+    "personId": "300005584",
+    "assessResult": "B+",
+    "assessRecode": "3.85000",
+    "assessDes": "能按时完成项目上的开发需求，能解决项目上遇到的困难和难题。"
+  },
+  {
+    "employeeName": "向娜",
+    "superiorNumber": "303304",
+    "superiorName": "梁安顺",
+    "assessPersonId": "298713",
+    "personId": "300005608",
+    "assessResult": "A",
+    "assessRecode": "4.40000",
+    "assessDes": "工作认真负责，希望2023年再接再厉，把江苏省办大家庭管理的更好。"
+  },
+  {
+    "employeeName": "常牧恺",
+    "superiorNumber": "71076",
+    "superiorName": "张满足",
+    "assessPersonId": "298714",
+    "personId": "300005610",
+    "assessResult": "B+",
+    "assessRecode": "3.75000",
+    "assessDes": "  做事认真负责，有较强的责任心，能在老员工离职的情况下，较好的完成交接这一点表现较好。能及时有效的整理4A需求，积极主动与研发沟通个，推动功能建设。在运维实际工作中一定要把客户室经理关注的问题摆在首要位置，保证采集联通率能保持好成绩，每月能达到集团的考核要求。期待在数据库、自动化运维等方面继续提升，后续在数据库及文档标准化方便继续加强，做更好的自己，并不断提升自我。"
+  },
+  {
+    "employeeName": "李双",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298715",
+    "personId": "300005612",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "1. 本年度工作积极主动，独立承担相关测试\r\n2. 继续学习相关产品知识"
+  },
+  {
+    "employeeName": "冯烨",
+    "superiorNumber": "303320",
+    "superiorName": "佘怀化",
+    "assessPersonId": "298716",
+    "personId": "300005614",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "工作踏实，成长较快。期望未来能够有思想意识上的转变，加强主人翁意识，为公司做出更大的贡献。"
+  },
+  {
+    "employeeName": "于舒洋",
+    "superiorNumber": "65109",
+    "superiorName": "陶莉莉",
+    "assessPersonId": "298717",
+    "personId": "300005616",
+    "assessResult": "B",
+    "assessRecode": "3.72500",
+    "assessDes": "能按时完成所分配的任务；测试资产积累符合产品及部门要求；工作积极主动、认真负责，对于有挑战的需求也能够主动学习保质保量。\r\n作为团队中最年轻的成员，在本年度的工作中，各项能力成长明显，未来成长可期。"
+  },
+  {
+    "employeeName": "杨泽",
+    "superiorNumber": "74550",
+    "superiorName": "王光辉",
+    "assessPersonId": "298718",
+    "personId": "300005618",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "1. 在 2022 年参与了多个项目开发，开发质量不错。\r\n2. 对 windows 系统和 OSCE 扫描等几个核心模块的理解不错。\r\n3. 有一段时间的 SEG cases 处理经验，但 cases 处理效率和 troubleshooting 的能力有待进一步提升。\r\n寄语：\r\n1. 继续提升对 windows 系统和 OSCE 架构的理解，勇于承担重点难点任务。\r\n2. 积极进行技术分享，扩展技术影响力。"
+  },
+  {
+    "employeeName": "杜宇翔",
+    "superiorNumber": "304511",
+    "superiorName": "李铜舒",
+    "assessPersonId": "298719",
+    "personId": "300005620",
+    "assessResult": "B",
+    "assessRecode": "3.70000",
+    "assessDes": "员工有一定的自驱力，能够针对研发需求，积极调整自己；希望未来能更快成长，为组织和产品线持续做出更大贡献。"
+  },
+  {
+    "employeeName": "郭志豪",
+    "superiorNumber": "395022",
+    "superiorName": "钟宏运",
+    "assessPersonId": "298720",
+    "personId": "300005631"
+  },
+  {
+    "employeeName": "李芳",
+    "superiorNumber": "303545",
+    "superiorName": "朱亮",
+    "assessPersonId": "298721",
+    "personId": "300005632",
+    "assessResult": "B+",
+    "assessRecode": "3.80000",
+    "assessDes": "1、工作认真负责；对于交付的任务能够按时完成，出现问题能够及时的沟通确认；\r\n2、作为入职一年的校招员工，成长较为迅速，能够获得周围同事的好评；"
+  },
+  {
+    "employeeName": "张子明",
+    "superiorNumber": "395025",
+    "superiorName": "陈理峰",
+    "assessPersonId": "298723",
+    "personId": "300005638"
+  },
+  {
+    "employeeName": "仇一骄",
+    "superiorNumber": "303520",
+    "superiorName": "刘育民",
+    "assessPersonId": "298724",
+    "personId": "300005640",
+    "assessResult": "A",
+    "assessRecode": "4.10000",
+    "assessDes": "工作态度积极，学习力强，乐于助人，工作任务完成出色。"
+  },
+  {
+    "employeeName": "肖玉坤",
+    "superiorNumber": "71347",
+    "superiorName": "刘伟",
+    "assessPersonId": "298725",
+    "personId": "300005650",
+    "assessResult": "B",
+    "assessRecode": "3.50000",
+    "assessDes": "在22年的工作中，更多是参与支撑任务，能更多的掌握业务知识、产品服务组件。希望后续能深入学习业务知识，掌握产品实现，总结和分享日常的支撑经验。"
+  }
+]

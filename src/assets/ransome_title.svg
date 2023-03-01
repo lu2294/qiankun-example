@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1599px" height="64px" viewBox="0 0 1599 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>标题</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="32219.0997%" gradientTransform="translate(0.500000,0.000000),scale(0.001650,1.000000),rotate(-11.189327),scale(1.000000,316.775060),translate(-0.500000,-0.000000)" id="radialGradient-1">
+            <stop stop-color="#196CFB" offset="0%"></stop>
+            <stop stop-color="#07083C" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="9.213321%" y1="49.7323022%" x2="88.9533837%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#20C1DB" stop-opacity="0.652081683" offset="0%"></stop>
+            <stop stop-color="#20C1DB" stop-opacity="0.146214625" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50.6235997%" x2="126.40012%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#20C1DB" offset="0%"></stop>
+            <stop stop-color="#050417" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.3913922%" y1="53.1648067%" x2="84.7406119%" y2="41.2177109%" id="linearGradient-4">
+            <stop stop-color="#23B4FF" offset="0%"></stop>
+            <stop stop-color="#2D7CFF" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-5" cx="799.5" cy="54" rx="34.5" ry="1"></ellipse>
+        <filter x="-17.4%" y="-800.0%" width="134.8%" height="1300.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-26.8%" y="-1125.0%" width="153.6%" height="1950.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="-4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.212803687   0 0 0 0 0.911218461   0 0 0 0 1  0 0 0 0.507650309 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-8" cx="800" cy="54.5" rx="14" ry="1"></ellipse>
+        <filter x="-64.3%" y="-2900.0%" width="228.6%" height="3700.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-110.7%" y="-4200.0%" width="321.4%" height="6300.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="-11" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.97413598   0 0 0 0 0.997083005   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="挖矿大屏" transform="translate(1.000000, -6.000000)">
+            <g id="标题" transform="translate(0.000000, 7.000000)">
+                <g id="直线-2" transform="translate(798.737815, 0.000000)">
+                    <line x1="193.237815" y1="0.5" x2="798.237815" y2="0.5" id="直线" stroke="url(#radialGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                    <path d="M321,36 L308.977959,48 L297,48 L309,36 L321,36 Z M301,36 L288.977959,48 L277,48 L289,36 L301,36 Z M281,36 L268.977959,48 L257,48 L269,36 L281,36 Z M261,36 L248.977959,48 L237,48 L249,36 L261,36 Z M241,36 L228.977959,48 L217,48 L229,36 L241,36 Z M221,36 L208.977959,48 L197,48 L209,36 L221,36 Z M201,36 L188.977959,48 L177,48 L189,36 L201,36 Z M181,36 L168.977959,48 L157,48 L169,36 L181,36 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                    <polyline id="直线" stroke="url(#linearGradient-3)" stroke-linecap="square" points="3.37702555e-17 54.5 315.467431 54.5 362.649492 14"></polyline>
+                    <polyline id="直线" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="square" points="273 54.5 315.467431 54.5 351.695594 23.3846886"></polyline>
+                    <line x1="518.768908" y1="13" x2="555.706723" y2="13" id="直线" stroke="#1A5CE2" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="473.768908" y1="13" x2="510.706723" y2="13" id="直线" stroke="#EF6414" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="377.811765" y1="13" x2="465.663866" y2="13" id="直线" stroke="#23B4FF" stroke-width="2" stroke-linecap="square"></line>
+                </g>
+                <g id="直线-2备份" transform="translate(399.368908, 27.250000) scale(-1, 1) translate(-399.368908, -27.250000) ">
+                    <line x1="193.237815" y1="0.5" x2="798.237815" y2="0.5" id="直线" stroke="url(#radialGradient-1)" stroke-width="2" stroke-linecap="square"></line>
+                    <path d="M321,36 L308.977959,48 L297,48 L309,36 L321,36 Z M301,36 L288.977959,48 L277,48 L289,36 L301,36 Z M281,36 L268.977959,48 L257,48 L269,36 L281,36 Z M261,36 L248.977959,48 L237,48 L249,36 L261,36 Z M241,36 L228.977959,48 L217,48 L229,36 L241,36 Z M221,36 L208.977959,48 L197,48 L209,36 L221,36 Z M201,36 L188.977959,48 L177,48 L189,36 L201,36 Z M181,36 L168.977959,48 L157,48 L169,36 L181,36 Z" id="形状结合" fill="url(#linearGradient-2)"></path>
+                    <polyline id="直线" stroke="url(#linearGradient-3)" stroke-linecap="square" points="3.37702555e-17 54.5 315.467431 54.5 362.649492 14"></polyline>
+                    <polyline id="直线" stroke="url(#linearGradient-4)" stroke-width="2" stroke-linecap="square" points="273 54.5 315.467431 54.5 351.695594 23.3846886"></polyline>
+                    <line x1="518.768908" y1="13" x2="555.706723" y2="13" id="直线" stroke="#1A5CE2" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="473.768908" y1="13" x2="510.706723" y2="13" id="直线" stroke="#EF6414" stroke-width="2" stroke-linecap="square"></line>
+                    <line x1="377.811765" y1="13" x2="465.663866" y2="13" id="直线" stroke="#23B4FF" stroke-width="2" stroke-linecap="square"></line>
+                </g>
+                <g id="椭圆形" filter="url(#filter-6)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                    <use fill="#5FEDFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="椭圆形" filter="url(#filter-9)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-8"></use>
+                    <use fill="#DAF7FA" fill-rule="evenodd" xlink:href="#path-8"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,14 +1,214 @@
-.mt10{
-  margin-top: 10px;
-  margin-left: 20px;
+@font-face {
+  font-family: tdaFont;
+  src        : url('../../assets/tdaFont.ttf');
 }
-.main_1{
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+.main_content {
+  // font-family: tdaFont;
+  height                : 100%;
+  width                 : 100%;
+  background-color      : #020043;
+  background-image      : url(../../assets/bg.webp);
+  // background-position: 50%;
+  background-repeat     : no-repeat;
+  background-size       : 100% 100%;
+
+  .main_header {
+    width                 : 100%;
+    background-image      : url(../../assets/ransome_title.svg);
+    background-position   : 50%;
+    background-repeat     : no-repeat;
+    height                : 6%;
+    display               : flex;
+    // align-items        : center;
+    justify-content       : center;
+
+    ._title {
+      text-align             : center;
+      font-size              : ~`px2rem(22)`;
+      font-weight            : 600;
+      background             : linear-gradient(#f0f6ff, #5fbfe5);
+      margin-top             : 0.4%;
+      background-clip        : text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+  .content {
+    height: 94%;
+    width : 100%;
+
+
+    position      : relative;
+    display       : flex;
+    flex-direction: column;
+
+    .content_1 {
+      height         : 48%;
+      width          : 100%;
+      display        : flex;
+      justify-content: space-evenly;
+      padding        : ~`px2rem(22)` 0px;
+
+      .content_item {
+        width              : calc(25% - 30px);
+        height             : 100%;
+        border-image-source: radial-gradient(67% 67%, transparent 0px, transparent 100%, cyan 100%);
+        border-image-slice : 1;
+        border-width       : 1px;
+        border-style       : solid;
+        background-color   : rgba(78, 121, 242, .1);
+
+        ._item_content {
+          height          : 90%;
+          width           : 100%;
+          display         : flex;
+          // flex-wrap    : wrap;
+          justify-content : space-evenly;
+
+          ._item_content_show {
+            width              : calc(100% / 3 - 20px);
+            // background-color: #5FEDFF;
+            height             : 100%;
+
+            .c1{
+              text-align: center;
+              color: #ccc;
+              font-size: ~`px2rem(19)`;
+              font-weight: 500;
+              height: 20%;
+            }
+            .c2{
+              text-align: center;
+              color: #ccc;
+              font-size: ~`px2rem(14)`;
+              font-weight: 500;
+            }
+
+            ._icon {
+              height         : 50%;
+              width          : 100%;
+              display        : flex;
+              align-items    : center;
+              justify-content: center;
+
+              ._icon1 {
+                height           : 40%;
+                position         : relative;
+                width            : 47%;
+                background-image : url('../../assets/liubian.svg');
+                background-size  : 100% 100%;
+                background-repeat: no-repeat;
+                display          : flex;
+                justify-content  : center;
+                align-items      : center;
+
+                .ant-image {
+                  width: 50%;
+                }
+
+                //               &:before {
+                // //                 position: absolute;
+                // // top: 10px;
+                // // left: 10px;
+                // // right: 10px;
+                // // bottom: 10px;
+                // // background: white;
+                //                 content: "";
+                //                 z-index: 9;
+                //                 display: inline-block;
+                //                 position: absolute;
+                //                 top: 1px;
+                //                 left: 1px;
+                //                 height: 98%;
+                //                 width: 98%;
+                //                 background-color: transparent;
+                //                 clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 50% 100%, 0 75%, 0 25%);
+                //               }
+
+              }
+
+              // background-color: red;
+            }
+          }
+        }
+
+        ._title {
+          height             : 10%;
+          width              : 100%;
+          // background-color: #020043;
+          display            : flex;
+          align-items        : center;
+          padding            : 0 ~`px2rem(16)`;
+
+          ._title_icon {
+            width                 : ~`px2rem(21)`;
+            // margin-top         : 3px;
+            height                : ~`px2rem(21)`;
+            background-image      : url(../../assets/ransome_1_1.png);
+            background-position   : center;
+            background-repeat     : no-repeat;
+            background-size       : 100% 100%;
+          }
+
+          ._title_content {
+            color         : #5FEDFF;
+            font-family   : tdaFont;
+            font-size     : ~`px2rem(16)`;
+            letter-spacing: ~`px2rem(1.2)`;
+            margin-left   : ~`px2rem(16)`;
+          }
+        }
+      }
+    }
+
+    .content_2 {
+      flex           : 1;
+      width          : 100%;
+      display        : flex;
+      justify-content: space-evenly;
+
+      .content2_item {
+        width           : calc(50% - 30px);
+        height          : 100%;
+        position        : relative;
+        background-color: rgb(35 60 129 / 10%);
+        padding         : 1rem;
+
+        .content2_item_select {
+          position: absolute;
+          right   : 0.5rem;
+          top     : 0.6rem;
+
+          ._select {
+            width    : 5rem;
+            font-size: 0.6rem;
+
+            .ant-select-selector {
+              background-color: rgb(35 60 129 / 30%);
+              border          : 1px rgb(35, 60, 129, 0.5) solid;
+
+            }
+
+          }
+        }
+      }
+
+      // background-color: blue;
+    }
+  }
+
+
 }
-.main_2{
-  font-size: 30px;
-  color: rgb(206, 30, 191);
+
+.ant-select-dropdown {
+  background-color: rgb(35 60 129 / 30%);
+}
+
+.ant-select-item-option-active {
+  background-color: rgb(35 60 129 / 40%) !important;
+}
+
+.rc-virtual-list {
+  color: #a6aebc;
 }

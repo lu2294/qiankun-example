@@ -6,9 +6,9 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const {
   CleanWebpackPlugin
 } = require('clean-webpack-plugin');
-// const {
-//   BundleAnalyzerPlugin
-// } = require('webpack-bundle-analyzer');
+const {
+  BundleAnalyzerPlugin
+} = require('webpack-bundle-analyzer');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const TerserPlugin = require("terser-webpack-plugin");
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
@@ -24,7 +24,7 @@ module.exports = merge(common, {
   output: {
     path: path.resolve(__dirname, '../build'),
     filename: 'static/js/[name]-bundle-[hash:6].js',
-    publicPath:'/mainweb/'
+    publicPath:'/'
   },
   module: {
     rules: [{
@@ -76,7 +76,7 @@ module.exports = merge(common, {
         removeComments: true,
       },
     }),
-    // new BundleAnalyzerPlugin(),
+    new BundleAnalyzerPlugin(),
     new CleanWebpackPlugin()
   ]
 });
